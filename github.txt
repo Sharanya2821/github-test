@@ -1,0 +1,12 @@
+1. git init ----initialize 
+2.git add filename ----adds the untracked file to staging
+3.git commit -m "messege" ----file gets tracked
+4.git push ---pushes the files to github repo
+5.git pull----pulls the files to local from github
+6.git restore ----restores the deleted file
+7.git status ---shows the present status of the files 
+8.git branch ----shows the branches
+9.git checkout -b or git branch new name ----creates a new branch 
+10.git switch branchname ----switches the branch
+11.head ----latest commit on the repository 
+12.git log---shows the log
