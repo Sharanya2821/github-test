@@ -1,6 +1,5 @@
 Id CommandLine
-  -- -----------
-   1 try { . "c:\Users\91702\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catch {}      
+  
    2 git init
    3 ls
    4 git status
@@ -8,4 +7,3 @@ Id CommandLine
    6 git status
    7 git commit -m "added"
    8 git status
-   
