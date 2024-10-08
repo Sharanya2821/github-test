@@ -1,6 +1,1 @@
-
-
-
-print("goodmorning")
-
-print("hello")
+#Hello world
