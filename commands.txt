@@ -8,24 +8,4 @@ Id CommandLine
    6 git status
    7 git commit -m "added"
    8 git status
-   9 git remote add origin https://github.com/Sharanya2821/github-test.git
-  10 git remote ---v
-  11 get remote -v
-  12 git remote set-url origin https://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@github.com/Sharanya2821/githubfordevops.git
-  13 get remote -v
-  14 git remote set-url origin https://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@github.com/Sharanya2821/github-test.git
-  15 get remote -v
-  16 git remote set-url origin https://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@github.com/Sharanya2821/github-test.git
-  17 get remote -v
-  18 ls
-  19 git status
-  20 git remote set-url origin https://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@github.com/Sharanya2821/github-test.git
-  21 git push origin
-  22 git push origin master
-  23 git status
-  24 git add test.py
-  25 git status
-  26 git commit -m "added to testing"
-  27 git status
-  28 git remote set-url origin https://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@github.com/Sharanya2821/github-test.git
-  29 git push origin master
+   
