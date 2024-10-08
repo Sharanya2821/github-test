@@ -7,3 +7,4 @@ Id CommandLine
    6 git status
    7 git commit -m "added"
    8 git status
+   9 git remote -v
