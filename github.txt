@@ -10,3 +10,9 @@
 10.git switch branchname ----switches the branch
 11.head ----latest commit on the repository 
 12.git log---shows the log
+13. git log --all --shows all commits 
+14.git checkout commit id ---> it goes to particular commit 
+15.git add . ---adds all the files in the folder to staged 
+16.git commit -m "  " --amend ---to commit any news changes to the previous commit 
+17.git clone url --- clones the repo in the local 
+18. .gitignore ---mention the files that want to ignore from adding to staged 
